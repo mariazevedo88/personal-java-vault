@@ -1,1 +1,1 @@
-# financial-java-vault
+# personal-java-vault
